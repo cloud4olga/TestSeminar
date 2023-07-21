@@ -16,5 +16,7 @@
 
 2. Полезные материалы по Git
 
+* [Книга С. Чакон, Б. Штауб. Git для профессионального программиста](https://gbcdn.mrgcdn.ru/uploads/asset/4245110/attachment/d4eb8c232f8f2bdf4e42ba7cb49e0c50.pdf)
 
+* 
 
